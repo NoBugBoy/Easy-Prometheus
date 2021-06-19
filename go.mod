@@ -3,6 +3,7 @@ module metrics
 go 1.16
 
 require (
+	github.com/NoBugBoy/httpgo v0.0.0-20210615080514-21c3112ac723
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/shirou/gopsutil v3.21.5+incompatible
